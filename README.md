@@ -2,6 +2,8 @@
 
 Workshop for Buenos Aires on 11 May 2018.
 
+I edited - Miguel Lopez
+
 ## Agenda
 
 ### 1. Introduction
